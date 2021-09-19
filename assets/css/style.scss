@@ -1,0 +1,23 @@
+---
+---
+
+@import "minimalist";
+
+@media print, screen and (max-width: 960px) {
+  header {
+    padding-right:0px;
+  }
+
+  .img-circle {
+    display:inline !important;
+    width:120px;
+  }
+
+  .sidebar {
+    text-align:center;
+  }
+}
+
+header p:first-of-type {
+  margin-bottom:5px;
+}

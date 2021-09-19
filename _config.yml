@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: fab1ano/jekyll-minimalist
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+title: Fabian Fleischer
+description: PhD Student at Georgia Tech SSLab
