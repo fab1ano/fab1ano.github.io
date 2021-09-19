@@ -38,10 +38,10 @@ Internship with classes on systems and network security
 ## Scholarships, Awards
 
 **DAAD Promos** <small>2020</small> \
-Stipend for the research internship at UCSB, California (US)
+Scholarship for the research internship at UCSB, California (US)
 
 **Fulbright Louisiana** <small>2018</small> \
-Fulbright "Leaders in Entrepreneurship" Program & Scholarship in Baton Rouge, Louisiana (US)
+Fulbright *Leaders in Entrepreneurship* Program & Scholarship in Baton Rouge, Louisiana (US)
 
 **DAAD Unibral** <small>2017</small> \
 Travel and living stipend for studying abroad at UFPR, Curitiba (Brazil)
@@ -56,8 +56,7 @@ Deutschlandstipendium scholarship for outstanding achievements in degree courses
 ### Magic Mirror
 
 In 2019 I did a hardware project inspired by Dylan Pierce's [MirrorMirror](https://metro.co.uk/2015/12/30/tech-genius-builds-magic-mirror-for-girlfriend-which-compliments-her-and-gives-weather-updates-5591422/). I built the frame with my dad and wrote a simple flask app for the interface. You can find the source code on [GitHub](https://github.com/fab1ano/magic-mirror).
-
-<img src="{{ site.baseurl }}/assets/img/mirror.jpg" width="230"/>
+<img src="{{ site.baseurl }}/assets/img/mirror.jpg" width="230" style="margin-top:8px"/>
 
 ### Capture-The-Flag
 
