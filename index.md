@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a PhD student at [Georgia Institute of Technology](https://www.gatech.edu/) in the [Systems Software & Security Lab](https://gts3.org/) advised by [Taesoo Kim](https://taesoo.kim/). My research interests are System Security and, in particular, mobile security and binary analysis. I have worked on ARM TrustZone security and native code of Android applications. If you are interested, send me an email, and I am happy to talk!
+I am a PhD student at [Georgia Institute of Technology](https://www.gatech.edu/) in the [Systems Software & Security Lab](https://gts3.org/) advised by [Taesoo Kim](https://taesoo.kim/). My research interests are systems security and, in particular, mobile security and binary analysis. I have worked on ARM TrustZone security and native code of Android applications. If you are interested, send me an email, and I am happy to talk!
 
 Before I started the PhD, I did a Master's at [FAU](https://www.fau.eu/) and an internship at the [UCSB SecLab](https://seclab.cs.ucsb.edu/).
 
@@ -56,7 +56,8 @@ Deutschlandstipendium scholarship for outstanding achievements in degree courses
 ### Magic Mirror
 
 In 2019 I did a hardware project inspired by Dylan Pierce's [MirrorMirror](https://metro.co.uk/2015/12/30/tech-genius-builds-magic-mirror-for-girlfriend-which-compliments-her-and-gives-weather-updates-5591422/). I built the frame with my dad and wrote a simple flask app for the interface. You can find the source code on [GitHub](https://github.com/fab1ano/magic-mirror).
-<img src="{{ site.baseurl }}/assets/img/mirror.jpg" width="230" style="margin-top:8px"/>
+
+<img src="{{ site.baseurl }}/assets/img/mirror.jpg" width="230" style="margin-top:-10px"/>
 
 ### Capture-The-Flag
 
