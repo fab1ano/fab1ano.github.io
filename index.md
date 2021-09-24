@@ -35,7 +35,7 @@ Bachelor of Science in Computer Science, *with distinction*
 **Universidade Federal do Paraná** <small>Curitiba (Brazil), 2017</small> \
 Internship with classes on systems and network security
 
-## Scholarships, Awards
+## Scholarships
 
 **DAAD Promos** <small>2020</small> \
 Scholarship for the research internship at UCSB, California (US)
@@ -51,7 +51,7 @@ Deutschlandstipendium scholarship for outstanding achievements in degree courses
 
 
 
-## Projects
+## Personal Projects
 
 ### Magic Mirror
 
