@@ -75,5 +75,6 @@ Before I focused on system security, I worked on high-performance computing. I p
 Recently, I started collecting resources that I found (and find) helpful for academic writing and on how to approach a PhD program. I listed them below, mainly as a reference for myself. Maybe you find some of them helpful as well.
 
 * Ronald T. Azuma's ["So long, and thanks for the Ph.D.!"](http://www.cs.unc.edu/~azuma/hitch4.html): An extensive guide on whether to do a PhD and what to do after the PhD
-* ["Writing Technical Articles"](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) and ["Common Bugs in Writing"](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) by Henning Schulzrinne: Tipps on the paper structure and a collection of technical details in academic writing
 * ["Graduate School Survival Guide"](https://www.math.waikato.ac.nz/~seano/grad-school-advice.html) by Wanda Pratt: Bullet points on advising, reading, and how to succeed in your research
+* ["Writing Technical Articles"](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) and ["Common Bugs in Writing"](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) by Henning Schulzrinne: Tipps on the paper structure and a collection of technical details in academic writing
+* Gernot Heiser's ["Tips and Guidance for Students Writing Papers and Reports"](http://gernot-heiser.org/style-guide.html): A guide on academic writing, including a collection of common pitfalls
