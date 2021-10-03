@@ -57,7 +57,7 @@ Deutschlandstipendium scholarship for outstanding achievements in degree courses
 
 In 2019 I did a hardware project inspired by Dylan Pierce's [MirrorMirror](https://metro.co.uk/2015/12/30/tech-genius-builds-magic-mirror-for-girlfriend-which-compliments-her-and-gives-weather-updates-5591422/). I built the frame with my dad and wrote a simple flask app for the interface. You can find the source code on [GitHub](https://github.com/fab1ano/magic-mirror).
 
-<img src="{{ site.baseurl }}/assets/img/mirror.jpg" width="230" style="margin-top:-10px"/>
+<img src="{{ site.baseurl }}/assets/img/mirror.jpg" width="230" style="margin-top:-10px" class="img-circle"/>
 
 ### Capture-The-Flag
 
