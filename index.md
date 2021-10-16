@@ -78,3 +78,5 @@ Recently, I started collecting resources that I found (and find) helpful for aca
 * ["Graduate School Survival Guide"](https://www.math.waikato.ac.nz/~seano/grad-school-advice.html) by Wanda Pratt: Bullet points on advising, reading, and how to succeed in your research
 * ["Writing Technical Articles"](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) and ["Common Bugs in Writing"](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) by Henning Schulzrinne: Tipps on the paper structure and a collection of technical details in academic writing
 * Gernot Heiser's ["Tips and Guidance for Students Writing Papers and Reports"](http://gernot-heiser.org/style-guide.html): A guide on academic writing, including a collection of common pitfalls
+
+<small>Website powered by <a href="https://jekyllrb.com/">Jekyll</a> &mdash; Based on <a href="https://www.bodunhu.com/minimalist/">minimalist theme</a></small>

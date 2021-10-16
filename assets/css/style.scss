@@ -18,7 +18,7 @@
   }
 }
 
-header p:first-of-type {
+header p:not(:last-of-type) {
   margin-bottom:5px;
 }
 
