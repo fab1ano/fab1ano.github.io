@@ -8,12 +8,12 @@ Before I started the PhD, I did a Master's at [FAU](https://www.fau.eu/) and an 
 
 ## Publications
 
-**Memory corruption attacks within Android TEEs: A case study based on OP-TEE** \
+**Memory corruption attacks within Android TEEs: A case study based on OP-TEE** [<i class="fa fa-file"></i>](https://dl.acm.org/doi/pdf/10.1145/3407023.3407072)\
 <u>Fabian Fleischer</u>, Marcel Busch, and Phillip Kuhrt.
 In *Proceedings of the 15th International Conference on Availability, Reliability and Security*.
 2020.
 
-**Make Remote Forensic Investigations Forensic Again: Increasing the Evidential Value of Remote Forensic Investigations** \
+**Make Remote Forensic Investigations Forensic Again: Increasing the Evidential Value of Remote Forensic Investigations** [<i class="fa fa-file"></i>](https://link.springer.com/content/pdf/10.1007%2F978-3-030-68734-2_2.pdf) \
 Marcel Busch, Florian Nicolai, <u>Fabian Fleischer</u>, Christian Rückert, Christoph Safferling, and Felix Freiling.
 In *International Conference on Digital Forensics and Cyber Crime*.
 2020.
