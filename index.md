@@ -14,12 +14,12 @@ In *Network and Distributed System Security (NDSS) Symposium*.
 2025\. \
 † Joint first authors.
 
-**Make Remote Forensic Investigations Forensic Again: Increasing the Evidential Value of Remote Forensic Investigations** [<i class="fa fa-file"></i>](https://link.springer.com/content/pdf/10.1007%2F978-3-030-68734-2_2.pdf) \
+**Make Remote Forensic Investigations Forensic Again: Increasing the Evidential Value of Remote Forensic Investigations** [<i class="fa fa-file"></i>](pdf/2020-tz-forensics.pdf) \
 Marcel Busch, Florian Nicolai, <u>Fabian Fleischer</u>, Christian Rückert, Christoph Safferling, and Felix Freiling.
 In *International Conference on Digital Forensics and Cyber Crime*.
 2020.
 
-**Memory corruption attacks within Android TEEs: A case study based on OP-TEE** [<i class="fa fa-file"></i>](https://dl.acm.org/doi/pdf/10.1145/3407023.3407072)\
+**Memory corruption attacks within Android TEEs: A case study based on OP-TEE** [<i class="fa fa-file"></i>](pdf/2020-optee-sec.pdf)\
 <u>Fabian Fleischer</u>, Marcel Busch, and Phillip Kuhrt.
 In *Proceedings of the 15th International Conference on Availability, Reliability and Security*.
 2020.
