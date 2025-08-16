@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am a PhD student at [Georgia Institute of Technology](https://www.gatech.edu/) in the [Systems Software & Security Lab](https://gts3.org/) advised by [Taesoo Kim](https://taesoo.kim/). My research interests are systems security and, in particular, mobile security, java security, and directed fuzzing. I have worked on ARM TrustZone security and native code of Android applications. If you are interested, send me an email, and I am happy to talk!
+I am a PhD student at [Georgia Institute of Technology](https://www.gatech.edu/) in the [Systems Software & Security Lab](https://gts3.org/) advised by [Taesoo Kim](https://taesoo.kim/). My research focuses on the intersection of AI and systems security, particularly of the Java ecosystem and directed fuzzing. For the past 2 years, I worked on the DARPA AI Cyberchallenge (AIxCC) with [Team Atlanta](https://team-atlanta.github.io/). Our team won 1st place, securing overall $6 million in prize money.
 
-Before I started the PhD, I did a Master's at [FAU](https://www.fau.eu/) and an internship at the [UCSB SecLab](https://seclab.cs.ucsb.edu/).
+Before I started the PhD, I did a Master's at [FAU](https://www.fau.eu/) and an internship at the [UCSB SecLab](https://seclab.cs.ucsb.edu/), working on ARM TrustZone security and native code of Android applications. If you are interested, send me an email, and I am happy to talk.
 
 ## Publications
 
