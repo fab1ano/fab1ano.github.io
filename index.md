@@ -2,9 +2,14 @@
 layout: default
 ---
 
-I am a PhD student at [Georgia Institute of Technology](https://www.gatech.edu/) in the [Systems Software & Security Lab](https://gts3.org/) advised by [Taesoo Kim](https://taesoo.kim/). My research focuses on the intersection of AI and systems security, particularly of the Java ecosystem and directed fuzzing. For the past 2 years, I worked on the DARPA AI Cyberchallenge (AIxCC) with [Team Atlanta](https://team-atlanta.github.io/). Our team won 1st place, securing overall $6 million in prize money.
+I am a PhD student at [Georgia Institute of Technology](https://www.gatech.edu/) in the [Systems Software & Security Lab](https://gts3.org/) advised by [Taesoo Kim](https://taesoo.kim/).
+My research focuses on the intersection of AI and systems security, particularly of the Java ecosystem and directed fuzzing.
+For the past 2 years, I worked on the **DARPA AI Cyberchallenge (AIxCC)** with [Team Atlanta](https://team-atlanta.github.io/).
+Our team won **1st place**, securing overall $6 million in prize money.
+See recent media coverage by [DARPA](https://www.darpa.mil/news/2025/aixcc-results), [Georgia Tech](https://www.cc.gatech.edu/news/georgia-tech-makes-history-wins-darpa-challenge), [Infosec Magazine](https://www.infosecurity-magazine.com/news/defcon-ai-cyber-challenge-winners/), and [KAIST](https://ee.kaist.ac.kr/en/research-achieve/team-atlanta-with-professor-insu-yuns-team-wins-aixcc-final/).
 
-Before I started the PhD, I did a Master's at [FAU](https://www.fau.eu/) and an internship at the [UCSB SecLab](https://seclab.cs.ucsb.edu/), working on ARM TrustZone security and native code of Android applications. If you are interested, send me an email, and I am happy to talk.
+Before I started the PhD, I did a Master's at [FAU](https://www.fau.eu/) and an internship at the [UCSB SecLab](https://seclab.cs.ucsb.edu/), working on ARM TrustZone security and native code of Android applications.
+If you are interested, send me an email, and I am happy to talk.
 
 ## Publications
 
@@ -61,20 +66,24 @@ Deutschlandstipendium scholarship for outstanding achievements in degree courses
 
 ### Magic Mirror
 
-In 2019 I did a hardware project inspired by Dylan Pierce's [MirrorMirror](https://metro.co.uk/2015/12/30/tech-genius-builds-magic-mirror-for-girlfriend-which-compliments-her-and-gives-weather-updates-5591422/). I built the frame with my dad and wrote a simple flask app for the interface. You can find the source code on [GitHub](https://github.com/fab1ano/magic-mirror).
+In 2019 I did a hardware project inspired by Dylan Pierce's [MirrorMirror](https://metro.co.uk/2015/12/30/tech-genius-builds-magic-mirror-for-girlfriend-which-compliments-her-and-gives-weather-updates-5591422/).
+I built the frame with my dad and wrote a simple flask app for the interface. You can find the source code on [GitHub](https://github.com/fab1ano/magic-mirror).
 
 <img src="{{ site.baseurl }}/assets/img/mirror.jpg" width="230" style="margin-top:-10px" class="img-circle"/>
 
 ### Capture-The-Flag
 
-If I find time, I play Capture-The-Flags (CTFs). Some write-ups are available on my GitHub page (i.e., [Tasteless CTF 2020](https://github.com/fab1ano/tasteless-ctf-20), [hxp CTF 2020](https://github.com/fab1ano/hxp-ctf-20), [Google CTF 2020](https://github.com/fab1ano/google-ctf-20), [Da Vinci CTF 2021](https://github.com/fab1ano/davinci-ctf-21)).
+If I find time, I play Capture-The-Flags (CTFs).
+Some write-ups are available on my GitHub page (i.e., [Tasteless CTF 2020](https://github.com/fab1ano/tasteless-ctf-20), [hxp CTF 2020](https://github.com/fab1ano/hxp-ctf-20), [Google CTF 2020](https://github.com/fab1ano/google-ctf-20), [Da Vinci CTF 2021](https://github.com/fab1ano/davinci-ctf-21)).
 
 Also, I was a challenge author and organizer of the FAUST CTF (CTFTime ranking 100/100 in 2021).
 With FAUST, I also qualified for the RuCTF Finals 2019 in Yekaterinburg, and we [ranked first](https://www.cs1.tf.fau.de/2020/11/20/fau-security-team-faust-ranks-first-in-cyber-security-rumble-germany/) in the Cyber Security Rumble Germany 2020 (second in the international ranking).
 
 ### High-Performance Computing
 
-Before I focused on system security, I worked on high-performance computing. I participated in the Student Cluster Competition of the International Supercomputing Conference (ISC17) in 2017 with a [team of fellow students](https://www.gauss-centre.eu/news/newsflashes/article/gcs-sponsors-team-from-fau-to-compete-in-isc17-student-cluster-competition/) from my local university. We <u>ranked first</u> in the category of the [highest LINPACK](http://www.hpcadvisorycouncil.com/events/2017/isc17-student-cluster-competition/) and received the *Highest LINPACK Performance Award*.
+Before I focused on system security, I worked on high-performance computing.
+I participated in the Student Cluster Competition of the International Supercomputing Conference (ISC17) in 2017 with a [team of fellow students](https://www.gauss-centre.eu/news/newsflashes/article/gcs-sponsors-team-from-fau-to-compete-in-isc17-student-cluster-competition/) from my local university.
+We <u>ranked first</u> in the category of the [highest LINPACK](http://www.hpcadvisorycouncil.com/events/2017/isc17-student-cluster-competition/) and received the *Highest LINPACK Performance Award*.
 
 ## PhD & Writing Resources
 
