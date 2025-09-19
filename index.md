@@ -13,6 +13,11 @@ If you are interested, send me an email, and I am happy to talk.
 
 ## Publications
 
+**ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System** [<i class="fa fa-file"></i>](https://arxiv.org/pdf/2509.14589) \
+Taesoo Kim, HyungSeok Han, Soyeon Park, et al. [including <u>Fabian Fleischer</u>].
+On *arXiv*.
+2025.
+
 **MALintent: Coverage Guided Intent Fuzzing Framework for Android** [<i class="fa fa-file"></i>](pdf/2025-malintent.pdf) \
 Ammar Askar†, <u>Fabian Fleischer†</u>, Christopher Kruegel, Giovanni Vigna, and Taesoo Kim.
 In *Network and Distributed System Security (NDSS) Symposium*.
