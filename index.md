@@ -13,6 +13,22 @@ If you are interested, send me an email, and I am happy to talk.
 
 ## Publications
 
+**Contextualizing Sink Knowledge for Java Vulnerability Discovery** [To Appear] \
+<u>Fabian Fleischer</u>†, Cen Zhang†, Joonun Jang, Jeongin Cho, Meng Xu, and Taesoo Kim.
+In *IEEE Symposium on Security and Privacy (S&P)*.
+2026\. \
+† Joint first authors.
+
+**OSS-CRS: Liberating AIxCC Cyber Reasoning Systems for Real-World Open-Source Security** [<i class="fa fa-file"></i>](https://arxiv.org/pdf/2603.08566) \
+Andrew Chin, Dongkwan Kim, Yu-Fu Fu, <u>Fabian Fleischer</u>, Youngjoon Kim, HyungSeok Han, Cen Zhang, Brian Junekyu Lee, Hanqing Zhao, and Taesoo Kim.
+On *arXiv*.
+2026.
+
+**SoK: DARPA's AI Cyber Challenge (AIxCC): Competition Design, Architectures, and Lessons Learned** [<i class="fa fa-file"></i>](https://arxiv.org/pdf/2602.07666) \
+Cen Zhang, Younggi Park, <u>Fabian Fleischer</u>, et al.
+On *arXiv*.
+2026.
+
 **ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System** [<i class="fa fa-file"></i>](https://arxiv.org/pdf/2509.14589) \
 Taesoo Kim, HyungSeok Han, Soyeon Park, et al. [including <u>Fabian Fleischer</u>].
 On *arXiv*.
